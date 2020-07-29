@@ -1,4 +1,4 @@
-﻿# movie-popularity
+﻿# Movie Popularity
 
 This project is one of the projects submitted and connected with Udacity - Advanced Data Analysis Nanodegree.
 
