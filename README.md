@@ -1,6 +1,6 @@
 ﻿# movie-popularity
 
-This project is one of the projects submitted and connected with Udacity - Data Analysis Nanodegree.
+This project is one of the projects submitted and connected with Udacity - Advanced Data Analysis Nanodegree.
 
 ## Introduction
 For the final project in this course, you will conduct your own data analysis and create a file to share that documents your findings. Starting by taking a look at your dataset and brainstorming what questions you could answer using it. You should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
